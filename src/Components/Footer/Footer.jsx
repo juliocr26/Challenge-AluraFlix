@@ -12,7 +12,7 @@ export default function Footer() {
         <footer className='footer'>
             <img src={logoImage} alt="" />
             <div className="redes">
-                <a href="www.linkedin.com/in/julio-césar-rodriguez-3b546922a" className="redes-icon"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+                <a href="https://www.linkedin.com/in/julio-c%C3%A9sar-rodriguez-3b546922a/" className="redes-icon"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                 <a href="https://github.com/juliocr26" className="redes-icon"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
                 <a href="https://wa.me/56993509609" className="redes-icon"><FontAwesomeIcon icon={faWhatsapp} size="2x" /></a>
             </div>
